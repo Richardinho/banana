@@ -2,9 +2,7 @@
 
 A progressive Web app demo
 
-##  progressive web apps best practises
-
-Progressive Web App (PWA) Checklist
+###Progressive Web App (PWA) Checklist
 
 1. Service worker
 2. web app manifest
